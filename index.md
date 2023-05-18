@@ -23,5 +23,13 @@ Este es el primer proyecto del primer parcial del curso. En esta página se most
 	+ Express
 	+ Firebase
 
+### Enlaces a otros proyectos desarrollados
++ Proyecto 02: [Curriculum vitae] [1]
+
+[1]: https://github.com/jlmoncay/curriculum
+
+### Acerca del desarrollador
+
+Mi nombre es Jorge Moncayo Paz y soy estudiante de la carrera de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral.
 
 
