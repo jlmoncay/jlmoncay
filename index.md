@@ -26,7 +26,7 @@ Este es el primer proyecto del primer parcial del curso. En esta página se most
 ### Enlaces a otros proyectos desarrollados
 + Proyecto 02: [Curriculum vitae] [1]
 
-[1]: https://github.com/jlmoncay/curriculum
+[1]: https://jlmoncay.github.io/curriculum/
 
 ### Acerca del desarrollador
 
