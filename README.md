@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Jorge and this is a ✨ _special_ ✨ repository because it shows all the projects I'm working on in my web development course
+
+- 🌱 I’m currently learning web development
+- 🤔 I’m looking for help with project ideas that will increase my skills and knowledge in web development
+
+
 <!--
 **jlmoncay/jlmoncay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
