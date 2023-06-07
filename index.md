@@ -25,8 +25,10 @@ Este es el primer proyecto del primer parcial del curso. En esta página se most
 
 ### Enlaces a otros proyectos desarrollados
 + Proyecto 02: [Curriculum vitae] [1]
++ Proyecto 03: [Landing page] [2]
 
 [1]: https://jlmoncay.github.io/curriculum/
+[2]: https://jlmoncay.github.io/landing-page/
 
 ### Acerca del desarrollador
 
